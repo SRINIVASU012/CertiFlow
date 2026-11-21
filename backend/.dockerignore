@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.git
+.env
+dist
+certificates/*
+!certificates/.gitkeep
+uploads/*
+!uploads/.gitkeep
+tests
